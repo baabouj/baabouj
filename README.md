@@ -6,7 +6,6 @@
 
 ---
 
-
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -33,3 +32,7 @@
 <br />
 
 ---
+
+<img align="left" alt="Omar Baabouj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baabouj&show_icons=true&hide_border=true&theme=dracula" />
+
+<img align="left" alt="Omar Baabouj's Top used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baabouj&hide_border=true&theme=dracula" />
