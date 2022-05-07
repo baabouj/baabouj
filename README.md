@@ -1,6 +1,6 @@
 ### Hi there, I'm Omar 👋
 
-## I'm a Junior Developer
+## I'm a Full-Stack Developer
 - 🌱 I’m currently learning everything :joy:
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
